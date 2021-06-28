@@ -6,7 +6,7 @@ Hello Angler!
 
 Introduction
 Do you deal with the same problems that most anglers deals with, when it comes to recording your ( PBF) Personal Best Fish?
-Well I have have the answer to your problem! Subcrible to Fish Bar! With the Fish Bar website, it allows anglers retrieve,create, update and delete any information regarding your catch.
+Well I have have the answer to your problem! Subscrible to Fish Bar! With the Fish Bar website, it allows anglers retrieve,create, update and delete any information regarding your catch.
 With these funionalities, it allows anglers to inpute and recieve information with ease even for the anglers that arent computer savvy.
 Cell phone application coming soon!
 
